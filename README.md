@@ -1,2 +1,2 @@
-# Ganesha_Cleaner.bat
+# Ganesha_Cleaner.CMD
 Antivirus
