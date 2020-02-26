@@ -2,6 +2,7 @@ chkdsk A: /f
 chkdsk B: /f
 chkdsk C: /f
 chkdsk D: /f
+chkdsk E: /f
 chkdsk F: /f
 chkdsk G: /f
 chkdsk H: /f
